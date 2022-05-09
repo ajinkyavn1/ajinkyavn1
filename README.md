@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Narkhede</h1>
-<h3 align="center">A passionate frontend & developement from India also i am learning cyber Security</h3>
+<h3 align="center">A passionate frontend &  Backend developement from India also i am learning cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkyavn1&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyavn1" /> </p>
 
